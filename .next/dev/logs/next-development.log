@@ -1,0 +1,578 @@
+[00:00:00.889] Server  LOG      ✓ Ready in 683ms
+[00:12:53.686] Server  ERROR    ⨯ ./app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui.global.css'
+> 1 | import '@/app/ui.global.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui.global.css' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:53.688] Server  ERROR    ⨯ ./app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui.global.css'
+> 1 | import '@/app/ui.global.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui.global.css' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:53.688] Server  ERROR    ⨯ ./app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui.global.css'
+> 1 | import '@/app/ui.global.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui.global.css' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:53.688] Server  ERROR    ⨯ ./app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui.global.css'
+> 1 | import '@/app/ui.global.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui.global.css' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:53.689] Server  ERROR    ⨯ ./app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui.global.css'
+> 1 | import '@/app/ui.global.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui.global.css' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:54.667] Browser ERROR   ./app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui.global.css'
+> 1 | import '@/app/ui.global.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui.global.css' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:54.667] Browser ERROR   ./app/layout.tsx:1:1
+Module not found: Can't resolve '@/app/ui.global.css'
+> 1 | import '@/app/ui.global.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function RootLayout({
+  4 |   children,
+
+Import map: aliased to relative './app/ui.global.css' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:32:09.156] Server  ERROR    ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:32:09.157] Server  ERROR    ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:32:09.157] Server  ERROR    ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:32:09.158] Server  ERROR    ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:32:09.158] Server  ERROR    ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:32:09.158] Server  ERROR    ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:32:09.159] Server  ERROR    ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:32:09.159] Server  ERROR    ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:32:09.159] Server  ERROR    ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:32:09.160] Server  ERROR    ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:32:09.160] Server  ERROR    ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:32:09.161] Server  ERROR    ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:32:09.666] Browser ERROR   ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:32:09.666] Browser ERROR   ./app/page.tsx:4:1
+Module not found: Can't resolve './home.module.css'
+  2 | import { ArrowRightIcon } from '@heroicons/react/24/outline';
+  3 | import Link from 'next/link';
+> 4 | import styles from './home.module.css'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Page() {
+  7 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[01:01:41.808] Server  LOG      ✓ Compiled in 887ms
+[01:50:20.468] Server  ERROR    ⨯ ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:50:20.468] Server  ERROR    ⨯ ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:50:20.469] Server  ERROR    ⨯ ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:50:20.469] Server  ERROR    ⨯ ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:50:20.469] Server  ERROR    ⨯ ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:50:20.469] Server  ERROR    ⨯ ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:50:20.470] Server  ERROR    ⨯ ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:50:20.470] Server  ERROR    ⨯ ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:50:20.475] Server  ERROR    ⨯ ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:50:20.476] Server  ERROR    ⨯ ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:50:20.476] Server  ERROR    ⨯ ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:50:20.477] Server  ERROR    ⨯ ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:50:20.664] Browser ERROR   ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[01:50:21.664] Browser ERROR   ./app/page.tsx:6:1
+Module not found: Can't resolve 'next/Image'
+  4 | import styles from '@/app/ui/home.module.css'
+  5 | import { lusitana } from '@/app/ui/fonts'
+> 6 | import Image from 'next/Image'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import clsx from 'clsx';
+  8 | export default function Page() {
+  9 |   return (
+
+Import map: aliased to module 'next' with subpath '/Image' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[01:52:17.637] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:52:19.432] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:52:21.857] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:54:23.980] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:54:29.147] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[12:27:29.710] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[12:30:37.991] Server  LOG      ✓ Compiled in 63ms
+[12:30:38.001] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./node_modules/.pnpm/next@16.0.10_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[12:31:48.490] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[12:32:11.331] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[12:35:46.021] Server  LOG      ✓ Compiled in 48ms
+[12:35:46.136] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./node_modules/.pnpm/next@16.0.10_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[12:35:46.564] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:46.698] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:47.182] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:47.276] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:47.382] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:47.475] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:47.578] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:47.679] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:47.789] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:47.880] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:47.990] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:48.087] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:48.224] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:48.320] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:48.439] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:48.536] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:48.649] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:48.740] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:48.850] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:48.945] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:49.058] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:49.157] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:49.270] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:49.362] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:49.493] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:49.590] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:35:49.670] Browser ERROR   uncaughtError: Error: The default export is not a React Component in "/dashboard/customers/page"
+[12:36:55.729] Server  LOG      ✓ Compiled in 59ms
+[12:37:05.370] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[12:43:03.074] Server  LOG      ✓ Compiled in 70ms
+[12:45:55.056] Server  LOG      ✓ Compiled in 96ms
+[12:45:55.397] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[12:45:55.500] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[12:45:55.648] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[12:45:55.749] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[12:45:55.864] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[12:45:56.009] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[12:45:56.150] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[12:45:56.252] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[12:45:56.357] Browser ERROR   uncaughtError: Error: The default export is not a React Component in "/dashboard/invoices/layout"
+[12:45:58.446] Server  LOG      ✓ Compiled in 55ms
+[13:29:52.678] Server  LOG      ✓ Compiled in 50ms
+[13:35:02.336] Server  LOG      ✓ Compiled in 73ms
